@@ -1,0 +1,34 @@
+# Roadmap
+- [x] Verify uniform article cover dimensions and concise titles for the three verified articles
+- [x] Add the supplied fourth article with its original-color image and brief factual descriptions for all four
+- [x] Replace the rejected portrait with the unchanged original-quality 1122×1402 background-extracted PNG
+- [x] Verify the final combined portrait, uniform four-cover gallery, interactions, downloads, motion and regression tests
+- [x] Add exactly three linked original-color MindsNotebook article covers directly below the novels
+- [x] Verify gallery crops, image loading, responsive layout, scroll/reduced motion and preserved portfolio refinements
+- [x] Replace the hero with the unchanged repaired portrait, preserving head and rounded shoulders with contain sizing and a gentle bottom fade
+- [x] Verify final desktop/mobile framing, scroll transforms, reduced motion, app interactions, destinations, Resume and regression tests
+- [x] Tighten the original transparent portrait around the visible person and verify final framing at 1440 and 390
+- [x] Apply plain Resume wording and Poppins typography (400/500/600/700)
+- [x] Replace rejected design with monochrome QA-first portfolio
+- [x] Include seven accurate repositories and eight stable artwork mappings
+- [x] Implement logo-first accessible app flips and restrained scroll motion
+- [x] Verify responsive views, grayscale, reduced motion, links, original Resume and tests
+- [x] Integrate all eight supplied artworks as permanent optimized assets and verify final interactions
+- [x] Add supplied Amazon links alongside original novel covers (product pages not independently verified)
+- [x] Enlarge original portrait and restore authentic book colors without resizing covers
+- [x] Integrate approved CreatorSpark AI artwork and description in Building, with compact TestPilot reference and no private source link
+- [x] Verify all queued changes, responsive portrait, cover filters, original PDF, links and app flips
+- [x] Make both app-card reverses text-only (EverSage artwork removed from reverse, asset left unused) and re-verify flips
+- [x] Remove the hero sector line and tidy hero footer spacing at desktop and mobile
+- [x] Make Blog visible in navigation, hero and Writing; balance a larger original portrait across desktop, tablet and mobile
+- [x] Verify final responsive screenshots, preserved covers, app backs, links, Resume and relevant tests
+- [x] Replace all initials branding with the full name and neutral favicon; verify desktop/mobile headers and preserved refinements
+- [x] Implement clearly visible scrubbed card rises, staggered row entrances, artwork reveals and desktop perspective without pinning
+- [x] Verify transforms at multiple scroll positions, mobile and reduced-motion layouts, keyboard repository links and regression tests
+- [x] Add the approved one-line TestPilot description to its Building reference, keeping Work in Progress status and the #engineer anchor
+- [x] Remove all Download Resume controls from header, hero, contact and footer (PDF kept in storage); hero actions are View QA projects and Email me
+- [x] Confirm only the Resume control was removed: GitHub, LinkedIn, Blog, email/copy-email, repository, QA nav, Amazon and four article links all verified live at desktop and mobile
+- [x] Unify Building into four equal flip cards (HOLD, EverSage, CreatorSpark AI, TestPilot) with icon tiles for the WIP tools
+- [x] Add project-artwork grayscale-to-color reveal on hover/focus (color by default on touch); portrait stays grayscale
+- [x] Integrate the user-supplied full-color versions of the seven project artworks
+
